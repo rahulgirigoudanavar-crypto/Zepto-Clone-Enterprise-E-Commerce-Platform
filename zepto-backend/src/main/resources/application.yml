@@ -1,0 +1,23 @@
+spring:
+  application:
+    name: zepto-backend
+  datasource:
+    url: jdbc:mysql://localhost:3306/zepto_db
+    username: root
+    password: densil@raja
+  jpa:
+    hibernate:
+      ddl-auto: update
+    show-sql: true
+    properties:
+      hibernate:
+        format_sql: true
+server:
+  port: 8080
+jwt:
+  secret-key: 7c0f7a6c8d9e1f2a3b4c5d6e7f8a9b0c1d2e3f4a5b6c7d8e9f0a1b2c3d4e5f6
+  expiration: 86400000
+
+razorpay:
+  key-id: rzp_test_TBoZJup1PCzJvv
+  key-secret: GPrk3jXryqLxE9A4htyRrJHE

@@ -1,0 +1,60 @@
+zepto-frontend
+│
+├── public
+│
+├── src
+│   │
+│   ├── assets
+│   │   ├── images
+│   │   ├── icons
+│   │   └── logos
+│   │
+│   ├── components
+│   │   ├── common
+│   │   ├── navbar
+│   │   ├── footer
+│   │   ├── cards
+│   │   ├── modals
+│   │   └── loaders
+│   │
+│   ├── pages
+│   │   │
+│   │   ├── user
+│   │   │   ├── Home
+│   │   │   ├── ProductDetails
+│   │   │   ├── Cart
+│   │   │   ├── Checkout
+│   │   │   ├── Orders
+│   │   │   ├── Profile
+│   │   │
+│   │   ├── vendor
+│   │   │   ├── Dashboard
+│   │   │   ├── Products
+│   │   │   ├── Inventory
+│   │   │   ├── Orders
+│   │   │   ├── Earnings
+│   │   │
+│   │   ├── admin
+│   │   │   ├── Dashboard
+│   │   │   ├── Users
+│   │   │   ├── Vendors
+│   │   │   ├── Products
+│   │   │   ├── Categories
+│   │   │   ├── Orders
+│   │   │   └── Reports
+│   │
+│   ├── services
+│   │
+│   ├── redux
+│   │
+│   ├── routes
+│   │
+│   ├── hooks
+│   │
+│   ├── context
+│   │
+│   ├── utils
+│   │
+│   └── App.jsx
+│
+└── package.json

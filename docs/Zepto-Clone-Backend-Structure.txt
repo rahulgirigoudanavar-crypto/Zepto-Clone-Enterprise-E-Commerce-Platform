@@ -1,0 +1,38 @@
+com.zepto
+│
+├── auth
+│   ├── controller
+│   ├── service
+│   ├── repository
+│   ├── entity
+│   └── dto
+│
+├── user
+│
+├── vendor
+│
+├── product
+│
+├── category
+│
+├── inventory
+│
+├── cart
+│
+├── order
+│
+├── payment
+│
+├── delivery
+│
+├── coupon
+│
+├── notification
+│
+├── analytics
+│
+├── security
+│
+├── common
+│
+└── config
